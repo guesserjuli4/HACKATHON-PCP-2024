@@ -1,0 +1,50 @@
+body{
+    background-image:url(img/Cidade\ futurista\ _\ Vetor\ Premium.jpg);
+    background-repeat: 1;
+}
+header{
+    background-color: #4682B4;
+    font-size: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    height: 50px;
+    border-radius: 50px;
+    margin: 10px;
+}
+#banner{
+    margin-top: 10px;
+    margin-left: 200px;
+    margin-bottom: 10px;
+    margin-right: 200px;
+    padding: 10px;
+    width: 900px;
+    height: 300px;
+    background-color: #4682B4;
+    border-radius: 50px;
+    border-image: 50px;
+}
+.info{
+    margin-top: 10px;
+    margin-left: 200px;
+    margin-bottom: 10px;
+    margin-right: 200px;
+    padding: 10px;
+    width: 900px;
+    height: 300px;
+    background-color: #4682B4;
+    border-radius: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+p{
+    margin: 30px;
+}
+#inscricao{
+    margin-top: 10px;
+    margin-left: 500px;
+    margin-bottom: 10px;
+    margin-right: 200px;
+    padding: 10px;
+    width: 250px;
+    height: 180px;
+    border-image: 50px;
+
+}
